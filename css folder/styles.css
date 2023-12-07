@@ -1,0 +1,33 @@
+body{
+    background-color: #339fcd;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+h1{
+    color: aliceblue;
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+    }
+p{
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+}
+  .Web{
+        text-decoration: underline;
+    }
+.top-container{
+    background-color: #012d6c;
+    margin-bottom: 15px;
+    position: relative;
+    padding-top: 100px;
+}
+    .top-cloud{
+        margin-left: 400px;
+    }
+    .bottom-cloud{
+        position: absolute;
+    }
+    
